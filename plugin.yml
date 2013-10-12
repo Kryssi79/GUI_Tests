@@ -1,0 +1,6 @@
+name: GUI_Tester
+version: 0.1
+description: GUI Tester
+author: Kryssi79
+
+main: com.Kryssi.GUI_Test.main
